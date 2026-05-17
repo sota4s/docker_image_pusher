@@ -8,7 +8,6 @@ kubernetesui/metrics-scraper:v1.0.8
 nvidia/dcgm-exporter:3.1.7-3.1.4-ubuntu20.04
 python:3.9
 grafana/grafana:9.5.20
-python3.9
 istio/pilot:1.15.0
 volcanosh/vc-webhook-manager:v1.7.0
 minio/minio:RELEASE.2023-04-20T17-56-55Z
