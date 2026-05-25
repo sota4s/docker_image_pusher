@@ -1,1 +1,4 @@
- nvidia/cuda:12.8.2-devel-ubuntu22.04
+#nvidia/cuda:12.8.2-devel-ubuntu22.04
+volcanosh/vc-scheduler:v1.14.0
+volcanosh/vc-controller-manager:v1.14.0
+volcanosh/vc-webhook-manager:v1.14.0
