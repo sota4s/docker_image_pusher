@@ -1,3 +1,4 @@
 #--platform=linux/arm64 gitlab/gitlab-ee:18.11.4-ee.0
 #ghcr.io/lakr233/gitlab-license-generator:main
---platform=linux/arm64 sonatype/nexus3:3.93.0
+#--platform=linux/arm64 sonatype/nexus3:3.93.0
+gitlab/gitlab-ee:18.11.5-ee.0
