@@ -3,7 +3,8 @@
 #--platform=linux/arm64 sonatype/nexus3:3.93.0
 #gitlab/gitlab-ee:18.11.5-ee.0
 #vllm/vllm-omni:v0.24.0
-quay.io/jupyter/pytorch-notebook:cuda12-notebook-7.6.0
-quay.io/jupyter/pytorch-notebook:cuda13-notebook-7.6.0
-quay.io/jupyter/tensorflow-notebook:cuda-notebook-7.6.0
-pytorch/pytorch:2.12.1-cuda13.0-cudnn9-devel
+#quay.io/jupyter/pytorch-notebook:cuda12-notebook-7.6.0
+#quay.io/jupyter/pytorch-notebook:cuda13-notebook-7.6.0
+#quay.io/jupyter/tensorflow-notebook:cuda-notebook-7.6.0
+#pytorch/pytorch:2.12.1-cuda13.0-cudnn9-devel
+vllm/vllm-openai:unlimited-ocr
