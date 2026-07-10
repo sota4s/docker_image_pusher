@@ -7,4 +7,5 @@
 #quay.io/jupyter/pytorch-notebook:cuda13-notebook-7.6.0
 #quay.io/jupyter/tensorflow-notebook:cuda-notebook-7.6.0
 #pytorch/pytorch:2.12.1-cuda13.0-cudnn9-devel
-vllm/vllm-openai:unlimited-ocr
+#vllm/vllm-openai:unlimited-ocr
+ollama/ollama:0.31.2
